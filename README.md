@@ -8,7 +8,7 @@
 
 <br/>
 
-![Academic](https://img.shields.io/badge/CGPA-8.8%2F10-E76F51?style=flat-square&logo=googlescholar&logoColor=white)
+![Academic](https://img.shields.io/badge/CGPA-9.02%2F10-E76F51?style=flat-square&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Coimbatore,%20India-2B1B12?style=flat-square&logo=googlemaps&logoColor=white)
 ![Graduation](https://img.shields.io/badge/Graduating-2027-F4A261?style=flat-square&logo=graduation-cap&logoColor=white)
 
