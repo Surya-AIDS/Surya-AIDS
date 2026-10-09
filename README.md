@@ -1,6 +1,6 @@
 <div align="center">
 
-# Surya Prakash P
+# SURYA PRAKASH P
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F4A261&center=true&vCenter=true&width=650&lines=Building+AI+%26+Data+Science+Solutions;Python+%E2%80%A2+SQL+%E2%80%A2+FastAPI+%E2%80%A2+RAG;Final-Year+AI%26DS+Engineer+%40+NIET;Minor+in+ECE+%E2%80%A2+Sensor+Tech+%26+IoT" alt="Typing SVG" />
